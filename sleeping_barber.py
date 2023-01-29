@@ -1,4 +1,3 @@
-# Based on code from https://github.com/Nohclu/Sleeping-Barber-Python-3.6-/blob/master/barber.py
 import time
 import random
 import threading
